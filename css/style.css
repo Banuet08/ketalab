@@ -35,7 +35,9 @@ header {
 .logo{
   height: 100px;
   width: auto;
-  margin: 10px;
+
+  margin: 40px;
+  
 }
 
 nav {
